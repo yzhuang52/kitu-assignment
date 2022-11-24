@@ -8,3 +8,8 @@
     margin: 10px;
     text-align: center;
 }
+
+#isOdd {
+    visibility: hidden;
+}
+
