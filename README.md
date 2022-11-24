@@ -1,4 +1,4 @@
-Please clone the code into your computer
-Run npm install 
-Run npm start
+Please clone the code into your computer<br>
+Run npm install <br>
+Run npm start<br>
 Go to localhost:3000
